@@ -1,0 +1,13 @@
+Month,Category,Region,Sales
+Jan,Electronics,North,5000
+Feb,Furniture,South,3000
+Mar,Clothing,East,4000
+Apr,Electronics,West,6000
+May,Furniture,North,3500
+Jun,Clothing,South,4200
+Jul,Electronics,East,6500
+Aug,Furniture,West,3200
+Sep,Clothing,North,4100
+Oct,Electronics,South,7000
+Nov,Furniture,East,3600
+Dec,Clothing,West,4500
